@@ -1,2 +1,2 @@
 # ROS2-learning
-Simple examples and basic project sing ROS2
+Simple examples and basic project using ROS2
